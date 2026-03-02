@@ -7,7 +7,7 @@ A end-to-end data analytics project simulating a real-world banking use case. A 
 ## 🛠️ Tools & Technologies
 
 | Tool               | Purpose                                 |
-|--------------------||----------------------------------------|
+|--------------------|-----------------------------------------|
 | SQL Server         | Database creation and data storage      |
 | SSMS               | Writing and executing SQL queries       |
 | Power BI Desktop   | Dashboard development and visualization |
