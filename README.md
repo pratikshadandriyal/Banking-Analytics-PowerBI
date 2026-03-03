@@ -143,5 +143,5 @@ SWITCH(
 ## 👤 Author
 
 Pratiksha Dandriyal
-Aspiring Data Analyst  
+Data Analyst  
 [LinkedIn Profile](http://www.linkedin.com/in/pratikshadandriyal) | [GitHub Profile] (https://github.com/pratikshadandriyal)
