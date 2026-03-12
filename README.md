@@ -78,6 +78,10 @@ The dataset was intentionally created with data quality issues to simulate real-
 
 
 ---
+## 📸 Dashboard Preview
+
+![page1](dashboard page_1.png
+![page2](dashboard page_2.png)
 
 ## 📐 Sample DAX Measures
 
