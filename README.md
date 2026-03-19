@@ -144,8 +144,6 @@ SWITCH(
 
 ---
 
-## 👤 Author
-
-Pratiksha Dandriyal
-Data Analyst  
-[LinkedIn Profile](http://www.linkedin.com/in/pratikshadandriyal) | [GitHub Profile] (https://github.com/pratikshadandriyal)
+**Pratiksha Dandriyal**
+| Data Analyst
+[LinkedIn](https://linkedin.com/in/pratikshadandriyal) | [GitHub](https://github.com/pratikshadandriyal)
